@@ -14,8 +14,8 @@ body {
 .main {
   width: 100%;
   height: 100vh;
-  background: url(pic.jpg) center center;
-  background-size: 1200px 890px;
+  background: url(wedding.jpeg) center center;
+  background-size: 800px 750px;
 }
 
 h1 {
@@ -117,7 +117,7 @@ div:nth-child(2) {
     /* margin-top: 0 -50px; */
   }
   .col {
-    margin-bottom: 40px;
+    margin-top: 280px;
   }
   .para {
     margin-bottom: 300px;
