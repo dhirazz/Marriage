@@ -70,6 +70,7 @@ setInterval(() => {
   clock();
 }, 1000);
 
-window.onload = function () {
-  document.getElementById("audioplayer").play();
-};
+function play() {
+  var audio = document.getElementById("audioplayer");
+  audio.play();
+}
